@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(17, 17, 17);
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 20px 0;
+}
+.agenda {
+    background-color: white;
+    width: 1000px;
+    min-height: 800px;
+    margin-top: 50px;
+    padding-bottom: 20px;
+}
